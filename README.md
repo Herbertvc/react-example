@@ -1,1 +1,1 @@
-# react-example
+# react-example made of this guide https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
